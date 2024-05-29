@@ -10,8 +10,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 
 # VALUES REQUIRED FOR XBOTS
-API_ID = 25616795
-API_HASH = "0f4d18a0cb5c4562aca6a6f42fe9f6a7"
+API_ID = "API_ID"
+API_HASH = "API_HASH"
 CMD_HNDLR = getenv("CMD_HNDLR", default=".")
 HEROKU_APP_NAME = getenv(" __𝐔sᴇʀ𝐃ɪᴇᴅ_ 𝐗_ 𝐒ᴘᴀᴍ__", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
